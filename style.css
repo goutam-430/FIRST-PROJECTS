@@ -26,3 +26,29 @@ section{
     height: 500px;
     padding-bottom: 150px;
 }
+.btm-dacoration{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.second-banner{
+    background-image: url('img/dream-bg.png');
+    background-repeat: no-repeat;
+}
+.second-btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.drem-erea{
+    background-image: url('img/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
