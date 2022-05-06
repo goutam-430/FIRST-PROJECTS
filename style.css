@@ -5,7 +5,10 @@ body{
 h1{
     font-size: 50px;
 }
-.name-hilight{
+p{
+    color: rgb(111, 114, 117);
+}
+.orange-hilight{
     color: orange;
 }
 .half-width{
@@ -51,4 +54,33 @@ section{
     background-image: url('img/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exprience-style{
+    box-shadow: 10px 10px 45px gray;
+    border-radius: 5px;
+    height: 80%;
+    margin-top: 40px;
+    background-color: white;
+} 
+.exprience-aria{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+  
+  
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}   
+#sull-stack-two{
+    
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,rgb(83, 83, 219),rgb(100, 199, 216));
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
