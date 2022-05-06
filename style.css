@@ -1,35 +1,34 @@
-body{
+body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-h1{
+h1 {
     font-size: 50px;
 }
-p{
+p {
     color: rgb(111, 114, 117);
 }
-.orange-hilight{
+.orange-hilight {
     color: orange;
 }
-.half-width{
+.half-width {
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-
 }
-.half-width img{
+.half-width img {
     width: 100%;
 }
-.toop-banner{
+.toop-banner {
     background-image: url('img/top-banner.png');
     background-repeat: no-repeat;
 }
-section{
+section {
     height: 500px;
     padding-bottom: 150px;
 }
-.btm-dacoration{
+.btm-dacoration {
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
     color: white;
@@ -37,12 +36,11 @@ section{
     border-radius: 5px;
     font-weight: 700;
 }
-
-.second-banner{
+.second-banner {
     background-image: url('img/dream-bg.png');
     background-repeat: no-repeat;
 }
-.second-btn{
+.second-btn {
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
     color: white;
@@ -50,37 +48,34 @@ section{
     border-radius: 5px;
     font-weight: 700;
 }
-.drem-erea{
+.drem-erea {
     background-image: url('img/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
 }
-
-.exprience-style{
+.exprience-style {
     box-shadow: 10px 10px 45px gray;
     border-radius: 5px;
     height: 80%;
     margin-top: 40px;
     background-color: white;
-} 
-.exprience-aria{
+}
+.exprience-aria {
     background-image: url("img/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-  
-  
 }
-#full-stack{
+#full-stack {
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon,tomato);
-    border-image-slice: 1;
-}   
-#sull-stack-two{
-    
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg,rgb(83, 83, 219),rgb(100, 199, 216));
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
-footer{
+#sull-stack-two {
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(83, 83, 219), rgb(100, 199, 216));
+    border-image-slice: 1;
+}
+footer {
     text-align: center;
 }
