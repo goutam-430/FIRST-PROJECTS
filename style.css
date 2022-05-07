@@ -4,6 +4,7 @@ body {
 }
 h1 {
     font-size: 50px;
+    
 }
 p {
     color: rgb(111, 114, 117);
@@ -19,7 +20,9 @@ p {
 }
 .half-width img {
     width: 100%;
+    margin-top: 58px;
 }
+
 .toop-banner {
     background-image: url('img/top-banner.png');
     background-repeat: no-repeat;
@@ -56,7 +59,7 @@ section {
 .exprience-style {
     box-shadow: 10px 10px 45px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 68%;
     margin-top: 40px;
     background-color: white;
 }
